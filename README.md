@@ -4,4 +4,3 @@ This project was a result of the prompts listed [here](https://github.com/mikeiz
 
 **Plot 1**
 
-/Users/davidlee/Desktop/Coursework F22/CS 40/project2/ev_washington.png
